@@ -1,5 +1,6 @@
 {
-  "name": "nightreincountdown",
+  "homepage": "https://jefrdev.github.io/NightReinCountdown/",
+    "name": "nightreincountdown",
   "private": true,
   "version": "0.0.0",
   "type": "module",
